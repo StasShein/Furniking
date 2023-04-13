@@ -1,1 +1,3 @@
-# furnikingStore
+# Furniking
+
+https://stasshein.github.io/Furniking/
